@@ -12,6 +12,6 @@ https://google.com
 **hi**
 :camel:
 
-* Nathan - ![github repo](https://github.com/EPHS-Cybersecurity-Hour1/fuzzy-octo-sniffle.git)
-* Sani - ![github repo](https://github.com/Sani-Deshmukh/jubilant-succotash.git)
-* Raul - ![github repo](https://github.com/RA-01/kizzynocat.git)
+* Nathan - [github repo](https://github.com/EPHS-Cybersecurity-Hour1/fuzzy-octo-sniffle.git)
+* Sani - [github repo](https://github.com/Sani-Deshmukh/jubilant-succotash.git)
+* Raul - [github repo](https://github.com/RA-01/kizzynocat.git)
